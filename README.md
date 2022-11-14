@@ -2,10 +2,9 @@
 
 ## About
 
-Construct a Trello-like application that would allow users to create and use kanban boards.
+A kanban board is one of the tools that can be used to implement kanban to manage work at a personal or organizational level. A popular example of a kanban board for agile or lean software development.
 
 ## Features
-Requirements:
 - Graphical user interface with drag-and-droppable card lists and cards.
 - You can add and remove cards and card lists to/from board
 - You can archive and return cards from an archive pile
